@@ -32,12 +32,17 @@ No sign-up. No installation. Just open and use.
 ## 📸 Screenshots
 
 ### 🏠 Homepage
-![Homepage]()
+![Homepage](./screencapture-utilityhubz-lovable-app-2026-04-24-17_07_56.png)
 
-### 🛠️ Tool Example
-![Tool1]()
-![Tool2]()
-![Tool3]()
+### 🔳 QR Code Generator
+![QR Tool](./screencapture-utilityhubz-lovable-app-tools-qr-generator-2026-04-24-17_17_08.png)
+
+### 📄 PDF Tools
+![PDF Tool](./screencapture-utilityhubz-lovable-app-tools-pdf-2026-04-24-17_13_29.png)
+
+### 🎨 CSS Animation Generator
+![CSS Tool](./screencapture-utilityhubz-lovable-app-tools-css-animation-2026-04-24-17_13_10.png)
+
 
 ---
 
